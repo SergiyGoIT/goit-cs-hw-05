@@ -1,0 +1,3 @@
+2025-08-06 16:29:07,213 [INFO] Copied: task1_sorter/demo_source/sample1.txt → sorted_output/txt/sample1.txt
+2025-08-06 16:29:07,213 [INFO] Copied: task1_sorter/demo_source/sample3.py → sorted_output/py/sample3.py
+2025-08-06 16:29:07,213 [INFO] Copied: task1_sorter/demo_source/sample2.csv → sorted_output/csv/sample2.csv
